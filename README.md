@@ -6,7 +6,7 @@ Currently available for work, feel free to have a look at my projects below 🤓
 <hr/>
 
 ## Languages I work with :
-
+[<img width="35px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>](https://sass-lang.com/)&emsp;
 [<img width="35px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>](https://sass-lang.com/)&emsp;
 [<img width="35px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>](https://www.mongodb.com/fr-fr)&emsp;
 [<img width="35px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>](https://nodejs.org/en/)
