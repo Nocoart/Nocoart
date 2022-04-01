@@ -9,6 +9,7 @@ Currently available for work, feel free to have a look at my projects below 🤓
 [<img width="35px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>](https://fr.reactjs.org/)&emsp;
 [<img width="40px" height="35px" style="margin-right: 10px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"/>](https://reactnative.dev/)&emsp;
 [<img width="35px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>](https://nodejs.org/en/)&emsp;
+[<img width="35px" style="margin-right: 10px" src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png"/>](https://expressjs.com/fr/)&emsp;
 [<img width="35px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>](https://sass-lang.com/)&emsp;
 [<img width="35px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>](https://www.mongodb.com/fr-fr)&emsp;
 [<img width="35px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>](https://nodejs.org/en/)
