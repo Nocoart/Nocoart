@@ -29,8 +29,8 @@ Currently available for work, feel free to have a look at my projects 🤓
 
 ## Currently learning :
 
-[<img width="45px" style="filter: grayscale(100%)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>](https://www.typescriptlang.org/)
-[<img width="45px" style="filter: grayscale(100%)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>](https://www.postgresql.org/)
+[<img width="45px"style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>](https://www.typescriptlang.org/)
+[<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>](https://www.postgresql.org/)
 
 
 <hr/>
