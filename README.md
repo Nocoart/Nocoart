@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Nicolas Guerineau developper fullstack Node.Js, React.Js, React Native
 
 After a career start in Finance and Art I decided to make a change to pursue the tings that I love, creation and logic challenges.
-Currently available for work, feel free to have a look at my projects below 🤓
+Currently available for work, feel free to have a look at my projects 🤓
 
 <hr/>
 
@@ -30,6 +30,8 @@ Currently available for work, feel free to have a look at my projects below 🤓
 ## Currently learning :
 
 [<img width="45px" style="filter: grayscale(100%)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>](https://www.typescriptlang.org/)
+[<img width="45px" style="filter: grayscale(100%)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>](https://www.postgresql.org/)
+
 
 <hr/>
 <!--
